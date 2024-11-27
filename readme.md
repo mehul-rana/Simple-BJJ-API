@@ -10,7 +10,6 @@ This is a simple API built using Brazilian Jiu Jitsu grapplers and their unique 
 The purpose of this project is to strengthen and enhance my introductory knowledge of building out API's and further practice using Javascript in the backend via Node.js and Express
 
 ## Optimizations
-*(optional)*
 
 Further increase the number of grapplers in the database and add a way to dynamically add HTML to the webpage using EJS (Embedded JavaScript)
 
